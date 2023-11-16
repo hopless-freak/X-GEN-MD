@@ -261,7 +261,7 @@ global.reloadHandler = async function (restatConn) {
   }
 
 conn.welcome = '❖━━━━━━[ ᴡᴇʟᴄᴏᴍᴇ ]━━━━━━❖\n\n┏––––––━━━━━━━━•\n│☘︎ @subject\n┣━━━━━━━━┅┅┅\n│( 👋 Hi @user)\n├[ ɪɴᴛʀᴏ ]—\n│ ɴᴀᴍᴀ: \n│ ᴜᴍᴜʀ: \n│ ɢᴇɴᴅᴇʀ:\n┗––––––━━┅┅┅\n\n––––––┅┅ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ┅┅––––––\n@desc' 
-conn.bye = '❖━━━━━━[ ʟᴇᴀᴠɪɴɢ ]━━━━━━❖\nGoodBye  @user 👋😃\n\nSomeone Just Left The Room @subject' 
+conn.bye = '❖━━━━━━[ ʟᴇᴀᴠɪɴɢ ]━━━━━━❖\nGoodBye  @user \n\nYour presence wasnt needed @subject' 
 conn.spromote = '@user congratulations you are now an admin!' 
 conn.sdemote = '@user You are no longer an admin!' 
 conn.sDesc = 'Description bdl di gai hy, new description: \n@desc' 
