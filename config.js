@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['919400413058', 'ᴋᴀᴢᴇ', true], 
+  ['917012268306', 'ꜱᴏʀᴀ', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['919400413058','917012268306'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['919400413058']
+global.nomorbot = '917012268306' //Change it to your own
+global.nomorown = '919400413058' //Change it to your own
+global.namebot = 'ꜱᴏʀᴀ x ΣΩΡΑ' //change it to your own
+global.nameown = 'ᴋᴀᴢᴇ' // change it to your own
 
 //*============= ==============*/
 
@@ -71,11 +71,11 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
-global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
+global.sig = 'https://www.instagram.com/_._kaze__/' //Link Instagrammu
+global.sgh = 'https://github.com/hopless-freak' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/DSrE0UiD5uGI5sRZCJyGOF'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
-global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
+global.snh = '-' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
 global.pdana = '085736178354' //Nomor Danamu
@@ -90,7 +90,7 @@ global.lolkeysapi = ['BrunoSobrino']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.lolkey = 'apikeymu'
 global.xkey = 'APIKEYMU'
-global.cricket_URL = 'https://m.cricbuzz.com/live-cricket-scores/56782/pak-vs-nz-new-zealand-tour-of-pakistan-2023' //paste new live match url here
+global.cricket_URL = '-' //paste new live match url here
 /*============== API ==============*/
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -118,25 +118,25 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
+global.wm = '「 ꜱᴏʀᴀ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴋᴀᴢᴇ x ꜱᴏʀᴀ- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'ꜱᴏʀᴀ x ΣΩΡΑ'
+global.footerTXT = ` ᴋᴀᴢᴇ x ꜱᴏʀᴀ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +919400413058`
+global.fig = `Follow me on instagram:\n\t\thttps://www.instagram.com/_._kaze__/`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ ꜱᴏʀᴀ x ΣΩΡΑ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
+global.logo = 'https://imgur.com/a/ii2SPGl'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
-global.thumbbc = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
+global.thumb = 'https://imgur.com/a/ii2SPGl' //Main Thumbnail
+global.thumb2 = 'https://imgur.com/a/Fa7W3ha'
+global.thumbbc = 'https://imgur.com/a/Fa7W3ha' //For broadcast
+global.giflogo = 'https://imgur.com/a/0pt916x'
+global.thumblvlup = 'https://imgur.com/a/ah7aEhX'
 global.hwaifu = ['https://i.ibb.co/jLnr3K9/20231025-195821.jpg']
 
 /*============== FlamingText ===========*/
@@ -153,7 +153,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '+919400413058'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
